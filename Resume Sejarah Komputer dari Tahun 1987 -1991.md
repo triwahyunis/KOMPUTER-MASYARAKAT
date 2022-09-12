@@ -28,6 +28,30 @@ Saat ini kartu kredit dan debit adalah alat utama yang digunakan orang untuk mem
 ## 1991 Pretty Good Privacy (PGP) 
 Pretty Good Privacy (PGP) adalah program enkripsi email yang dikembangkan oleh Phil Zimmermann, seorang aktivis perdamaian dan pemrogram komputer yang peduli mendalam tentang hak privasi warga dunia. Pada tahun 1991, Zimmermann mengetahui ada RUU antikejahatan yang sedang diperdebatkan di Senat AS untuk mewajibkan perusahaan yang menjual produk enkripsi di Amerika Serikat untuk memasukkan "pintu jebakan" dalam perangkat lunak mereka sehingga pemerintah penyelidik bisa mendapatkan salinan dari pesan yang tidak terenkripsi yang disebut teks. 
 
+**Menurut laporan David D. Clark (lahir 1944)**
+pada tahun 1991 Ketika sistem komputer menjadi lebih canggih masyarakat menjadi lebih rentan terhadap desain sistem yang buruk, seperti serangan pada sistem computer, maka dari itu diperlukannya keamanan computer yang dapat melindungi data yang ada pada computer. 
+![](Gambar/Gambar11.jpg)
+
+**Pada tahun 1991**, seorang sarjana di Universitas Helsinki di Finlandia sedang menciptakan sistem operasi gratis. yaitu linux, yang dikembangkan oleh  Linus Torvalds ini. Sejak itu, minat pada Linux terus tumbuh, dan sekarang menjadi sistem operasi yang paling banyak digunakan di dunia, sebagian besar sebagai hasil adopsi oleh Google untuk sistem operasi Android.
+![](Gambar/Gambar12.jpg)
+
+**1992** munculnya perusahaan robotika pelopor yaitu Boston Dynamics . perusahaan ini  pembuat beberapa robot canggih yang pernah ada.  perusahaan ini  Didirikan oleh Marc Raibert, mantan profesor di Carnegie Mellon dan MIT. pada tahun 1992 juga ditemukan algoritma untuk mengompres foto agar ukurannya lebih kecil namun tidak mengurangi kualitas foto tersebut. dan juga pada tahun 1992 terdapat web browser yaitu perangkat lunak yang diperlukan untuk mengakses, mengambil, dan melihat informasi yang diinginkan oleh pengguna akhir
+
+**pada tahun 1993** penyelenggara elektronik memiliki kemampuan dan fungsi yang terbatas seperti menyimpan nama, alamat, dan nomor telepon. Apple Newton adalah sesuatu yang jauh lebih ambisius: konsep ulang yang lengkap dari komputasi pribadi menjadi perangkat genggam portabel yang memungkinkan pengguna untuk mengakses dan menyimpan informasi, menulis, berkreasi, dan menciptakan.
+
+**pada tahun 1994** adanya Iklan Spanduk pertama yang dirancang oleh Craig Kanarick dan Otto Timmons, Mereka yang mengklik spanduk akan dibawa ke situs web yang sudah terhubung
+![](Gambar/Gambar18.jpg)
+
+**pada tahun 1994** adanya tantangan untuk para pembaca untuk memecahkan kode RSA-129. yang dikembangkan oleh Ronald Rivest, dan dia mengatakan bahwa dibutuhkan 40 kuadriliun tahun untuk memfaktorkan angka tersebut menurut perkiraan nya. Rivest menawarkan hadiah $100 kepada pemecah kode yang berhasil.
+Kemudian seorang mahasiswa ilmu komputer berusia 21 tahun di MIT, memutuskan untuk memecahkan kode angka 129 digit. Atkins menyadari bahwa jumlahnya dapat dijangkau jika dia dapat meminta ratusan orang dari seluruh internet untuk membantu,  Dan dia mengumpulkan sekelompok kolaborator,  Selama beberapa bulan berikutnya, lebih dari 600 orang menyumbangkan waktu  untuk memecahkan RSA-129. Setelah delapan bulan, angka 129 digit difaktorkan, mengungkapkan pesan rahasia dari tahun 1977: KATA-KATA MAGIC ADALAH OSSIFRAGE SQUEAMISH
+
+Pada tahun 1995 lahirlah DVD (digital video disc) yang diciptakan untuk menyimpan seluruh film panjang fitur ke dalam pelat keras yang dapat dibaca oleh computer. Terobosan teknologi DVD adalah realisasi bahwa data film dapat dikodekan dengan lekukan yang jauh lebih kecil, dikemas lebih rapat, jika laser yang digunakan untuk membaca data.
+
+Pada tahun 1995, adanya ecommers (perdagangan elektronik) pertama yang diciptakan oleh Pierre Omidyar yaitu  eBay, ecommers ini untuk menjual barang-barang mereka satu sama lain.  Dia tahu dia tertarik pada sesuatu ketika penjualan pertamanya. Dia mendapatkan $14,83 untuk laser pointer rusaknya sendiri yang dibeli oleh seseorang yang mengoleksi laser pointer rusak. 
+
+
+
+
 
 
 
